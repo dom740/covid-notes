@@ -1,8 +1,7 @@
 # Dominic's Covid Notes
 Purpose: to keep a record of key pieces of info that may or may not be picked up by national press, and do so in an easy-to-digest format which avoids both information overload and the chance of missing things due to high volume of information.
 
-## Saturday 17 July 2021
-### How effective is the Pfizer against the delta variant?
+## How effective is the Pfizer against the delta variant? (17 July 2021)
 <details>
 <summary>Expand for details</summary>
 <br>
@@ -13,8 +12,7 @@ The [Israeli Prime Minister has commented](https://www.jpost.com/breaking-news/f
 
 </details>
 
-## Friday 16 July 2021
-### What are syncytia and why are they important?
+## What are syncytia and why are they important? (16 July 2021)
 <details>
 <summary>Expand for details</summary>
 <br>
@@ -34,7 +32,7 @@ Research has found that more recent variants have an enhanced ability to form la
 
 </details>
 
-### Long covid has more than 200 symptoms and is more common than one would expect following asymptomatic infection
+## Long covid has more than 200 symptoms and is more common than one would expect following asymptomatic infection (16 July 2021)
 <details>
 <summary>Expand for details</summary>
 <br>
@@ -47,8 +45,7 @@ One of the authors is quoted as saying "There are likely to be tens of thousands
 
 </details>
 
-## Thursday 8 July 2021
-### The UK strategy is changing and cases are likely increase significantly
+## The UK strategy is changing and cases are likely increase significantly (8 July 2021)
 <details>
 <summary>Expand for details</summary>
 <br>
@@ -79,8 +76,7 @@ The extent of these risks will be affected by the number of infections. And one 
 
 </details>
 
-## Sunday 13 June 2021
-### Main symptoms have changed - covid more likely to present as a cold than a cough
+## Main symptoms have changed - covid more likely to present as a cold than a cough (13 June 2021)
 <details>
 <summary>Expand for details</summary>
 <br>
@@ -102,7 +98,7 @@ Loss of smell not in the top 10 any more.
 
 </details>
 
-### It's surprising just how much more infectious Delta (Indian) variant is
+## It's surprising just how much more infectious Delta (Indian) variant is (13 June 2021)
 <details>
 <summary>Expand for details</summary>
 <br>
@@ -115,7 +111,7 @@ In the video linked to above, Spector says that estiamtes of the R nought for th
 
 </details>
 
-### It's still not about the death rate
+## It's still not about the death rate (13 June 2021)
 <details>
 <summary>Expand for details</summary>
 <br>
