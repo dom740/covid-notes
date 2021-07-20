@@ -6,7 +6,7 @@ Purpose: to keep a record of key pieces of info that may or may not be picked up
 <summary>Expand for details</summary>
 <br>
 
-[Vitamin D supplementation and COVID-19 risk: a population-based, cohort study](https://link.springer.com/article/10.1007/s40618-021-01639-9)
+[Vitamin D supplementation and COVID-19 risk: a population-based, cohort study](https://link.springer.com/article/10.1007/s40618-021-01639-9) (20 July 2021)
   
 > Cholecalciferol supplementation (n = 108,343) was associated with slight protection from SARS-CoV2 infection (n = 4352 [4.0%] vs 9142/216,686 [4.2%] in controls; HR 0.95 [CI 95% 0.91–0.98], p = 0.004). Patients on cholecalciferol treatment achieving 25OHD levels ≥ 30 ng/ml had lower risk of SARS-CoV2 infection, lower risk of severe COVID-19 and lower COVID-19 mortality than unsupplemented 25OHD-deficient patients (56/9474 [0.6%] vs 96/7616 [1.3%]; HR 0.66 [CI 95% 0.46–0.93], p = 0.018). Calcifediol use (n = 134,703) was not associated with reduced risk of SARS-CoV2 infection or mortality in the whole cohort. However, patients on calcifediol treatment achieving serum 25OHD levels ≥ 30 ng/ml also had lower risk of SARS-CoV2 infection, lower risk of severe COVID-19, and lower COVID-19 mortality compared to 25OHD-deficient patients not receiving vitamin D supplements (88/16276 [0.5%] vs 96/7616 [1.3%]; HR 0.56 [CI 95% 0.42–0.76], p < 0.001).
 
